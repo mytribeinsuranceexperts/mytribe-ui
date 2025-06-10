@@ -155,8 +155,6 @@ button:focus,
   font-weight: 600;
 }
 
-/* Removed focus styles for .sort-button - will use global button:focus instead */
-
 .sort-button:hover {
   opacity: 1 !important;
   color: var(--color-accent) !important;
@@ -227,8 +225,6 @@ button:focus,
   margin: 1em 0 0;
 }
 
-/* Removed focus styles for .table-toggle - will use global button:focus instead */
-
 .table-toggle:hover {
   background-color: #115c4e;
   color: white;
@@ -261,8 +257,6 @@ button:focus,
   background-color: var(--color-accent);
   color: white;
 }
-
-/* Removed focus styles for .table-copy-button - will use global button:focus instead */
 
 .table-copy-button svg {
   width: 16px;
